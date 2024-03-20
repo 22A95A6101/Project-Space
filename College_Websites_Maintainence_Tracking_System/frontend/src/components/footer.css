@@ -1,0 +1,74 @@
+footer{
+    bottom: 0px;
+  
+  background-color: white;
+  
+   
+}
+container-fluid{
+    box-shadow: 2px 2px 2px;
+   
+}
+@keyframes example {
+    from {background-color: black;}
+    to {background-color: yellow;}
+  }
+  h3{
+    color: green;
+  }
+h6{
+    font-size: 20px; 
+    padding-bottom: 10px;     
+}
+h6 marquee{
+    color: whitesmoke;
+}
+.col-md-3{
+padding: 25px;
+color: green;
+
+}
+li{
+    color: rgb(60, 37, 37);
+    list-style-type: none;
+ 
+}
+#scroll{
+    width: 103%;
+    height: 40px;
+    background-color: green;
+    box-shadow: 0px 12px 11px;
+
+    
+   
+}
+.d{
+    
+    width: 100%;
+    height: auto;
+   
+}
+#icons{
+    padding: 5px;
+    font-size: 25px;
+   
+  
+}
+#icons li{
+    display: inline; 
+    padding: 10px;
+}
+span:hover{
+color: rgb(116, 116, 232);
+    }
+    li:hover{
+    color: red;
+    }
+    span span:hover{
+color: red;
+    }
+
+
+
+
+

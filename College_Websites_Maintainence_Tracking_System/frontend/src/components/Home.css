@@ -1,0 +1,60 @@
+
+/* src/App.css */
+
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  /* Header Styles */
+  #header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .header a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .menu {
+    margin-top: 10px;
+  }
+  
+  /* Footer Styles */
+  
+  /* Home Page Styles */
+  #carouselExampleControls {
+    margin-bottom: 20px;
+  }
+  
+  /* Login/Register Page Styles */
+  .card {
+    margin-top: 20px;
+  }
+  
+  /* Login/Register Form Styles */
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 767px) {
+    .header {
+      padding: 10px;
+    }
+  
+    /* .footer {
+      position: static;
+      margin-top: 20px;
+    } */
+  }
+  
